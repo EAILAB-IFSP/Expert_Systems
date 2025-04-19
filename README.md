@@ -1,7 +1,6 @@
----
-title: "Sistemas Especialistas Aplicado à Engenharia (P2SEA)"
-format: html
----
+
+##Sistemas Especialistas Aplicado à Engenharia (P2SEA)
+
 
 <p>O material à seguir refere-se à disciplina de pós-graduação Sistemas Especialistas Aplicado à Engenharia (P2SEA), ministrada pelo Dr. Arnaldo de Carvalho Junior.<p>
 
