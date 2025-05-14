@@ -26,3 +26,5 @@
 
 
 <p><a href="https://github.com/BrunoAlves03/Expert-Systems-/blob/main/7.1.CNNs.pdf">7.1.CNNs</a><p>
+
+<p> <a href="https://eailab-ifsp.github.io/Expert_Systems/">Clique Aqui Para Visualizar em HTML</a> <p>
