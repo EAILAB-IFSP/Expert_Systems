@@ -1,4 +1,3 @@
-center
 <img src="Logo_Dourado.jpg" class="center" style="width:50%">
 
 ## Sistemas Especialistas Aplicado à Engenharia (P2SEA)
