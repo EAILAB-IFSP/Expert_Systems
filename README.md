@@ -6,7 +6,7 @@
 
 <H2>Aulas<h2>
 
- <p><a href="https://github.com/BrunoAlves03/Expert-Systems-/blob/main/1%20-%20Introdu%C3%A7%C3%A3o%20%C3%80%20Sistemas%20Especialistas.pdf ">1 - Introdução À Sistemas Especialistas</a> <p>
+<p><a href="https://github.com/BrunoAlves03/Expert-Systems-/blob/main/1%20-%20Introdu%C3%A7%C3%A3o%20%C3%80%20Sistemas%20Especialistas.pdf ">1 - Introdução À Sistemas Especialistas</a> <p>
  
 
 <p> <a href="https://github.com/BrunoAlves03/Expert-Systems-/blob/main/2%20-%20Ru%C3%ADdo%20-%20Perturba%C3%A7%C3%A3o%20-%20Incerteza%20-%20Contradi%C3%A7%C3%A3o.pdf">2 - Ruído - Perturbação - Incerteza - Contradição</a> <p>
