@@ -4,6 +4,8 @@
 
 <p>O material à seguir refere-se à disciplina de pós-graduação Sistemas Especialistas Aplicado à Engenharia (P2SEA), ministrada pelo Dr. Arnaldo de Carvalho Junior.<p>
 
+<p> <a href="https://eailab-ifsp.github.io/Expert_Systems/">Clique Aqui Para Visualizar em HTML</a> <p>
+
 <H2>Aulas<h2>
 
 <p><a href="https://github.com/BrunoAlves03/Expert-Systems-/blob/main/1%20-%20Introdu%C3%A7%C3%A3o%20%C3%80%20Sistemas%20Especialistas.pdf ">1 - Introdução À Sistemas Especialistas</a> <p>
@@ -27,4 +29,4 @@
 
 <p><a href="https://github.com/BrunoAlves03/Expert-Systems-/blob/main/7.1.CNNs.pdf">7.1.CNNs</a><p>
 
-<p> <a href="https://eailab-ifsp.github.io/Expert_Systems/">Clique Aqui Para Visualizar em HTML</a> <p>
+
